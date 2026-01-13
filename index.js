@@ -43,4 +43,5 @@ const makeCommits = (n) => {
   });
 };
 
-makeCommits(7);
+//makeCommits(7);
+markCommit(2, 3);
